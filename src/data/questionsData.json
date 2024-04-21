@@ -1,0 +1,139 @@
+{
+  "questions": [
+    {
+      "question": "What is the purpose of JavaScript frameworks?",
+      "options": [
+        "To simplify and streamline web development",
+        "To create complex animations",
+        "To optimize server-side rendering",
+        "To manage databases"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which JavaScript framework is known for its virtual DOM?",
+      "options": ["Vue.js", "Angular", "Svelte", "React"],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "What is the main difference between JavaScript libraries and frameworks?",
+      "options": [
+        "Libraries provide pre-written functions, while frameworks dictate the structure of the application",
+        "Libraries dictate the structure of the application, while frameworks provide pre-written functions",
+        "There is no difference",
+        "Libraries are used for backend development, while frameworks are for frontend"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which JavaScript framework is popular for building single-page applications?",
+      "options": ["Ember.js", "Backbone.js", "React", "jQuery"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "What is the purpose of a JavaScript transpiler like Babel?",
+      "options": [
+        "To convert modern JavaScript code into backward-compatible code",
+        "To minify JavaScript files",
+        "To optimize server response time",
+        "To convert JavaScript into other languages"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What does AJAX stand for in the context of JavaScript?",
+      "options": [
+        "Asynchronous JavaScript and XML",
+        "All JavaScript and XML",
+        "Advanced JavaScript and XML",
+        "Asynchronous JavaScript and XHTML"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Which JavaScript framework is known for its two-way data binding?",
+      "options": ["Vue.js", "React", "Angular", "Ember.js"],
+      "correctOption": 2,
+      "points": 40
+    },
+    {
+      "question": "What is a JavaScript promise?",
+      "options": [
+        "A guarantee that a function will return a value",
+        "A guarantee that a function will execute",
+        "A guarantee that a function will not return a value",
+        "A guarantee that a function will throw an error"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which JavaScript feature is used to iterate over items in an array?",
+      "options": ["forEach loop", "while loop", "for loop", "if statement"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "What is the purpose of JavaScript closures?",
+      "options": [
+        "To protect variables from being modified",
+        "To create private variables and functions",
+        "To execute code asynchronously",
+        "To handle errors gracefully"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What does the 'this' keyword refer to in JavaScript?",
+      "options": [
+        "The current function",
+        "The global object",
+        "The parent object",
+        "The element that triggered the event"
+      ],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "What is the purpose of the 'use strict' directive in JavaScript?",
+      "options": [
+        "To enable strict mode, which catches common coding mistakes",
+        "To enforce stricter security measures in the browser",
+        "To allow the use of experimental features",
+        "To optimize code execution speed"
+      ],
+      "correctOption": 0,
+      "points": 40
+    },
+    {
+      "question": "Which method is used to add a new item to the end of an array in JavaScript?",
+      "options": ["push()", "append()", "addToEnd()", "insertLast()"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What does the 'typeof' operator return for a JavaScript function?",
+      "options": ["'function'", "'object'", "'array'", "'undefined'"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "What is the purpose of the 'async' and 'await' keywords in JavaScript?",
+      "options": [
+        "To handle asynchronous code more elegantly using promises",
+        "To force synchronous execution of asynchronous code",
+        "To pause code execution until a condition is met",
+        "To define asynchronous functions"
+      ],
+      "correctOption": 0,
+      "points": 20
+    }
+  ]
+}
