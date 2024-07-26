@@ -11,7 +11,7 @@ function StartScreen({ dispatch, numQuestions }) {
     <div className="start">
       <h2>Questions to test your JavaScript mastery</h2>
       <div className="btn-container">
-        <h3>How many questions can you handle?</h3>
+        <h3>How many questions?</h3>
         <NumQuestions
           className="circles"
           color="#f0db4f"
